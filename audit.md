@@ -10,18 +10,23 @@ Info
 
 > Name, URL, additional site-specific info.
 
-- **Site**: [Site Name]
-- **URL**: http://www.example.com
+- **Site**: [NotSureYet]
+- **URL**: http://www.notsureyet.io
 
 Browser Support
 ---------------
 
 > What browsers will the site support?
 
+- Keep it Modern & Mobile
+
 Features
 --------
 
 > What specific feautures do you want? (Is the site responsive?, etc.)
+
+- Fully Responsive 
+- Powered by [Hoodie](http://hood.ie)
 
 Tools
 -----
@@ -39,6 +44,16 @@ CSS Architecture
 > How will your CSS be structured? What modules? What framework?
 
 You can build this section out based on looking at the design or wireframes, and then update and document the modules that you actually build. This provides a place for you to evaluate your CSS structure as you build out the front-end. Ultimately, you should move this into a styleguide that exists alongside the project. However, this is a great way to document and evaluate your front-end structure as you go.
+
+Models
+------
+
+> What kind of data are we gathering and serving in the app/api?
+
+Views
+-----
+
+> What views are we constructing and serving?
 
 Notes & Ideas
 -------------
